@@ -1,18 +1,32 @@
 {
-  "name": "youtube-scraper",
-  "version": "1.0.0",
+  "name": "youtube-scraper-data",
+  "version": "1.1.1",
   "main": "index.js",
   "scripts": {
     "start": "node scrape-youtube.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "youtube",
+    "youtube visitor data",
+    "youtube po_token",
+    "youtube scraper",
+    "youtube scraper data"
+  ],
+  "author": "fsholehan",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^23.0.2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "First, run the following command in your terminal to install all the necessary dependencies:",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsholehan/scrape-youtube.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fsholehan/scrape-youtube/issues"
+  },
+  "homepage": "https://github.com/fsholehan/scrape-youtube#readme"
 }
