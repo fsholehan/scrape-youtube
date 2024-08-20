@@ -1,9 +1,9 @@
 {
   "name": "youtube-scraper-data",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "index.js",
   "scripts": {
-    "start": "node scrape-youtube.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",

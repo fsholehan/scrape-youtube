@@ -18,7 +18,11 @@ Once the installation is finished, start the application with:
 npm start
 ```
 
-## If you use as package
+............
+
+# If you use as package
+
+......
 
 # YouTube Data Scraper
 
