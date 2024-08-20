@@ -1,4 +1,19 @@
-## how to run scrape-youtube
+## How to Run Scrape-YouTube
 
-1. first run `npm install`
-2. type `npm start`
+### 1. Install Dependencies
+
+First, run the following command in your terminal to install all the necessary dependencies:
+
+```
+npm install
+```
+
+Wait until the installation is complete.
+
+### 2. Start the Application
+
+Once the installation is finished, start the application with:
+
+```
+npm start
+```
